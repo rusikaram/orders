@@ -1,7 +1,6 @@
 {
   "name": "rusikaram-orders",
   "version": "1.0.0",
-  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
